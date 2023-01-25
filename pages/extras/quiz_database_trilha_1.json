@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "questions": 2,
+    "answers": 4,
+    "randomize_questions": true,
+    "randomize_answers": true
+  },
+  "gamemode": {
+    "feedback_mode": true,
+    "feedback_rule": "feed-and-go"
+  },
+  "questions": [
+    {
+      "Title": "São princípios relacionados ao direito do trabalho:",
+      "Answers": [
+        {
+          "Title": "Isonomia e proteção.",
+          "Score": 0
+        },
+        {
+          "Title": "Superioridade jurídica do empregador e continuidade do emprego.",
+          "Score": 0
+        },
+        {
+          "Title": "Irrenunciabilidade de direitos e proteção.",
+          "Score": 1
+        },
+        {
+          "Title": "Indisponibilidade de deveres e continuidade do emprego.",
+          "Score": 0
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é: <b>Irrenunciabilidade de direitos e proteção.</b>"
+    },
+    {
+      "Title": "Constitui uma atribuição da CIPA:",
+      "Answers": [
+        {
+          "Title": "Promover campanhas para prevenção da AIDS.",
+          "Score": 1
+        },
+        {
+          "Title": "Equiparar as doenças degenerativas como acidente de trabalho.",
+          "Score": 0
+        },
+        {
+          "Title": "Decidir se o acidente de trabalho é típico ou de percurso.",
+          "Score": 0
+        },
+        {
+          "Title": "Deduzir as causas dos acidentes com base na sua experiência.",
+          "Score": 0
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é: <b>Promover campanhas para prevenção da AIDS.</b>"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "settings": {
+    "questions": 4,
+    "answers": 4,
+    "randomize_questions": true,
+    "randomize_answers": true
+  },
+  "gamemode": {
+    "feedback_mode": true,
+    "feedback_rule": "feed-and-go"
+  },
+  "questions": [
+    {
+      "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium. Maecenas sed scelerisque ante. Cras egestas mattis ultrices. Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+      "Answers": [
+        {
+          "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Maecenas sed scelerisque ante. Cras egestas mattis ultrices. ",
+          "Score": 0
+        },
+        {
+          "Title": "Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+          "Score": 1
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é <b>Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.</b>"
+    },
+    {
+      "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium. Maecenas sed scelerisque ante. Cras egestas mattis ultrices. Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+      "Answers": [
+        {
+          "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Maecenas sed scelerisque ante. Cras egestas mattis ultrices. ",
+          "Score": 0
+        },
+        {
+          "Title": "Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+          "Score": 1
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é <b>Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.</b>"
+    },
+    {
+      "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium. Maecenas sed scelerisque ante. Cras egestas mattis ultrices. Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+      "Answers": [
+        {
+          "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Maecenas sed scelerisque ante. Cras egestas mattis ultrices. ",
+          "Score": 0
+        },
+        {
+          "Title": "Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+          "Score": 1
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é <b>Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.</b>"
+    },
+    {
+      "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium. Maecenas sed scelerisque ante. Cras egestas mattis ultrices. Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+      "Answers": [
+        {
+          "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Curabitur finibus magna eu dui condimentum pretium.",
+          "Score": 0
+        },
+        {
+          "Title": "Maecenas sed scelerisque ante. Cras egestas mattis ultrices. ",
+          "Score": 0
+        },
+        {
+          "Title": "Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.",
+          "Score": 1
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é <b>Vivamus non fermentum erat. Vestibulum vehicula ornare pellentesque.</b>"
+    }
+  ]
+}

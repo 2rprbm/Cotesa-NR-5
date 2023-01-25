@@ -1,0 +1,15 @@
+﻿{
+  "information": {
+    "modulo-numero": "TRILHA 1",
+    "modulo-resumido": "T1",
+    "modulo-nome": "Embelleze - G3WS"
+  },
+  "configuration": {
+    "target": "#menu_item_list",
+    "start-level": 0,
+    "max-level": 0,
+    "min-level": 0,
+    "prefix-name": "pages/capitulo_"
+  },
+  "pages": []
+}
